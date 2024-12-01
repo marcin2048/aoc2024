@@ -12,8 +12,8 @@ internal class Program
         p.ProcessTask1("inputdata.txt");
 
 
-        //p.ProcessTask2("testdata.txt");
-        //p.ProcessTask2("inputdata.txt");
+        p.ProcessTask2("testdata.txt");
+        p.ProcessTask2("inputdata.txt");
 
 
     }
