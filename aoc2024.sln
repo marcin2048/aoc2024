@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day01", "day01\day01.csproj", "{529DD290-58EA-4CD7-9689-6225C3AC4C63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day02", "day02\day02.csproj", "{981B70A1-DE3B-4B61-9ACA-38F02A2FCDA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day02", "day02\day02.csproj", "{981B70A1-DE3B-4B61-9ACA-38F02A2FCDA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day03", "day03\day03.csproj", "{44B56588-59B3-4E1C-BA9D-510A395D5392}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,8 +23,15 @@ Global
 		{981B70A1-DE3B-4B61-9ACA-38F02A2FCDA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{981B70A1-DE3B-4B61-9ACA-38F02A2FCDA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{981B70A1-DE3B-4B61-9ACA-38F02A2FCDA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B56588-59B3-4E1C-BA9D-510A395D5392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B56588-59B3-4E1C-BA9D-510A395D5392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B56588-59B3-4E1C-BA9D-510A395D5392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B56588-59B3-4E1C-BA9D-510A395D5392}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57D4F159-7ECC-4772-828E-BF0E2ABAFC9C}
 	EndGlobalSection
 EndGlobal
